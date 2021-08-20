@@ -99,7 +99,7 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/lamouse/lamouse.github.io.git
+  repo: git@github.com:lamouse/lamouse.github.io.git
   branch: master
 sitemap:
     path: sitemap.xml
