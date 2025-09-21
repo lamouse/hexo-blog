@@ -1,11 +1,12 @@
 ---
-title: vulkan在mac上的vk::createInstance: ErrorIncompatibleDriver问题解决方法
+title: vulkan在mac上的ErrorIncompatibleDriver问题解决方法
 date: 2023-03-04 16:21:37.052
-updated: 2023-03-11 22:47:05.335
-url: /archives/vulkanonmac上的vkcreateinstanceerrorincompatibledriver
+updated: 2023-06-11 22:47:05.335
 categories: 
-- mac
+  - macOS
 tags: 
+ - Vulkan
+ - macOS
 ---
 
 启用VK_KHR_portability_enumeration 实例扩展
